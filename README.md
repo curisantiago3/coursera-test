@@ -1,2 +1,2 @@
 # coursera-test
-coursera html-css-javascrpt
+coursera html-css-javascript
